@@ -1,13 +1,3 @@
-from fpdf import FPDF
-
-# Create a PDF instance
-pdf = FPDF()
-pdf.set_auto_page_break(auto=True, margin=15)
-pdf.add_page()
-pdf.set_font("Arial", style='', size=12)
-
-# README content
-readme_content = """\
 🎵 Music Streaming Website 🎶  
 
 Welcome to the **Music Streaming Website**, a web-based music player where you can listen to your favorite songs! Built with **HTML, CSS, JavaScript**, and enhanced with **dynamic features**. 🚀  
