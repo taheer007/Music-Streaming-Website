@@ -34,6 +34,8 @@ git clone https://github.com/taheer007/Music-Streaming-Website.git
 4.First all the files were unorganized, later  i have organized separately all the HTML files oneside and similarly CSS files, JS files, Images, Songs separately in their respective folders.
   so before running the application, make sure the path to the above files are correct in the code (or else make changes accordingly). 
 
+Note: For Profile, the photos has been removed due to personal security from the images folder. you can add any images and modify the path according to the images you provide.
+
 🛠️ Tech Stack  
 - Frontend: HTML, CSS, JavaScript  
 - Version Control: Git, GitHub  
